@@ -1,6 +1,6 @@
-# F018_gaokao Vue+Flask构建的高考预测可视化系统|带预测算法机器学习
+# F018 Vue+Flask构建的高考预测可视化系统|带预测算法机器学习
 
-完整项目收费，可联系微信: maimaidashuju 注明从git来的，谢谢！
+完整项目收费，可联系微信: mmdsj186011 注明从git来的，谢谢！
 也可以关注我的B站： 麦麦大数据 https://space.bilibili.com/1583208775
 
 关注B站，有好处！
